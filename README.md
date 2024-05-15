@@ -7,7 +7,7 @@ Este repositório foi criado para ajudar pessoas leigas a aprenderem os conceito
 1. [Instalação do Python](#instalacao-do-python)
 2. [Variáveis](#variaveis)
 3. [Estruturas de Controle](#estruturas-de-controle)
-4. [Funções](#funcoes)
+4. [Funções](#Funções)
 5. [Exemplos Práticos](#exemplos-praticos)
 
 ## Instalação do Python
@@ -40,4 +40,12 @@ def saudacao(nome):
     print(f"Olá, {nome}!")
 
 saudacao("Maria")
+```
+## Exemplos Práticos
+```
+    Agora que você aprendeu os conceitos básicos, aqui estão alguns exemplos práticos para você praticar:
+
+        Crie um programa que peça o nome do usuário e o cumprimente.
+        Crie um programa que calcule a média de três notas.
+        Crie um programa que verifique se um número é par ou ímpar.
 ```
