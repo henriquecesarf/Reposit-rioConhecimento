@@ -19,6 +19,25 @@ Em Python, as variáveis são usadas para armazenar valores. Veja um exemplo:
 ```python
 nome = "João"
 idade = 30
+````
 
 ## Estruturas de Controle
 As estruturas de controle em Python permitem controlar o fluxo do programa. Veja um exemplo de um condicional if:
+
+```Python
+idade = 18
+if idade >= 18:
+    print("Você é maior de idade.")
+else:
+    print("Você é menor de idade.")
+```
+
+## Funções
+As funções em Python são blocos de código que podem ser chamados para executar uma tarefa específica. Veja um exemplo de uma função simples:
+
+```Python
+def saudacao(nome):
+    print(f"Olá, {nome}!")
+
+saudacao("Maria")
+```
